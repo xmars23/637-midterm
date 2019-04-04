@@ -1,3 +1,5 @@
+All source codes are from https://github.com/sslab-gatech/deadline. I only use it for CSE 637 class project.
+
 Init
 ----
 
